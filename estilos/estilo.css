@@ -1,0 +1,56 @@
+/*selectores {estilos} tipos de selectores
+1-Etiquetas h1,p
+2-clase .+Nombre grupo de etiquetas
+3-Id #+Nombre id en la etiqueta*/
+
+body {
+    background-color: bisque;
+}
+
+.fondoverde{
+    background-color: green;
+}
+
+h2{
+    background-color: aqua;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#tituloprincipal{
+    background-color: rgb(600, 380, 0);
+    width: 400px;
+    height: 50px;
+    display: inline-block;
+}
+
+button{
+    display: block;
+    background-color: brown;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.botondiferente{
+    background-color: gray;
+}
+
+img{
+    width: 500px;
+}
+
+.texto2{
+    width: 25%;
+    height: 40%;
+}
+
+#textounico{
+    background-image: url(./Imagenes/kenny-eliason-8fDhgAN5zG0-unsplash.jpg);
+}
+
+ul{
+    background-color: coral;
+    width: 50%;
+}
+
+li{
+    background-color: rgb(211, 5, 5);
+}
